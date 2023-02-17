@@ -1,0 +1,616 @@
+
+Welcome to Phase 2
+
+Introduction to React
+ Introduction to React
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish Introduction to React.
+Add Content to Introduction to React
+
+Video: Introduction to React
+Unlocked. Click to lock. Published. Click to unpublish Video: Introduction to React. 
+
+What is React?
+
+
+
+Intro to npm
+
+
+Assignment
+npm Code-Along
+
+
+
+Assignment
+Running Tests in React
+
+
+
+Assignment
+A React App Example
+
+
+
+Quiz
+Introduction to React Quiz
+
+
+
+Components and Props
+ Components and Props
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish Components and Props.
+Add Content to Components and Props
+External Url
+Scrimba Playlist: Components & Props
+
+ Published. Click to unpublish Scrimba Playlist: Components & Props. 
+
+Video: Components and Props
+Unlocked. Click to lock. Published. Click to unpublish Video: Components and Props. 
+Assignment
+React Components Basics
+
+
+
+Assignment
+React Components Basics Lab
+
+
+
+
+Video: Import/Export and Code Organization
+Unlocked. Click to lock. Published. Click to unpublish Video: Import/Export and Code Organization. 
+Assignment
+Organizing Code with Import/Export
+
+
+
+Assignment
+Organizing Code with Import/Export Lab
+
+
+
+
+Video: JSX
+Unlocked. Click to lock. Published. Click to unpublish Video: JSX. 
+
+Writing JSX
+
+
+Assignment
+JSX Lab
+
+
+
+
+Video: Conditional Rendering
+Unlocked. Click to lock. Published. Click to unpublish Video: Conditional Rendering. 
+Assignment
+Props Basics
+
+
+
+Assignment
+Props Basics Lab
+
+
+
+
+Video: Destructuring
+Unlocked. Click to lock. Published. Click to unpublish Video: Destructuring. 
+Assignment
+Props Destructuring and Default Values
+
+
+
+
+Video: Lists and Keys
+Unlocked. Click to lock. Published. Click to unpublish Video: Lists and Keys. 
+Assignment
+Lists and Keys
+
+
+
+Assignment
+Lists and Keys Lab
+
+
+
+
+BONUS: React Fragments
+
+
+Assignment
+BONUS: React Children
+
+
+
+Assignment
+Putting it All Together: Components and Props
+
+
+
+Quiz
+Components and Props Quiz
+
+
+
+State and Events
+ State and Events
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish State and Events.
+Add Content to State and Events
+External Url
+Scrimba Playlist: State & Events
+
+ Published. Click to unpublish Scrimba Playlist: State & Events. 
+
+Video: Event Basics
+Unlocked. Click to lock. Published. Click to unpublish Video: Event Basics. 
+Assignment
+Event Handling in React
+
+
+
+Assignment
+Event Handling in React Lab
+
+
+
+
+Video: Using State
+Unlocked. Click to lock. Published. Click to unpublish Video: Using State. 
+
+Video: Setting State with Callback Syntax
+Unlocked. Click to lock. Published. Click to unpublish Video: Setting State with Callback Syntax. 
+Assignment
+React State
+
+
+
+Assignment
+React State and Events Code-along
+
+
+
+Assignment
+React State and Arrays
+
+
+
+Assignment
+React State Lab
+
+
+
+External Url
+Scrimba Playlist: Thinking in React
+
+ Published. Click to unpublish Scrimba Playlist: Thinking in React. 
+
+Video: Information Flow
+Unlocked. Click to lock. Published. Click to unpublish Video: Information Flow. 
+
+Video: Inverse Data Flow
+Unlocked. Click to lock. Published. Click to unpublish Video: Inverse Data Flow. 
+Assignment
+React Information Flow
+
+
+
+Assignment
+React Information Flow Lab
+
+
+
+Assignment
+React Context
+
+
+
+Video: Forms and Controlled Inputs
+Unlocked. Click to lock. Published. Click to unpublish Video: Forms and Controlled Inputs. 
+Assignment
+Controlled Components
+
+
+
+Assignment
+React Forms Submit
+
+
+
+Assignment
+BONUS: React Forms Abstraction
+
+
+
+Assignment
+React Controlled Components Lab
+
+
+
+Assignment
+Putting it All Together: State and Events
+
+
+
+Quiz
+State and Events Quiz
+
+
+
+Applying Your Learning: State and Events
+ Applying Your Learning: State and Events
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish Applying Your Learning: State and Events.
+Add Content to Applying Your Learning: State and Events
+Assignment
+ReactTube
+
+
+
+Assignment
+HogWild: The React app for fans of prize-winning pigs
+
+
+
+Side Effects and Data Fetching
+ Side Effects and Data Fetching
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish Side Effects and Data Fetching.
+Add Content to Side Effects and Data Fetching
+External Url
+Scrimba Playlist: Side Effects and Data Fetching
+
+ Published. Click to unpublish Scrimba Playlist: Side Effects and Data Fetching. 
+
+Video: Side Effects and Data Fetching
+Unlocked. Click to lock. Published. Click to unpublish Video: Side Effects and Data Fetching. 
+Assignment
+The useEffect Hook
+
+
+
+Assignment
+The useEffect Hook - Cleaning Up
+
+
+
+Assignment
+React useEffect Lab
+
+
+
+
+Video: useEffect with Data Fetching
+Unlocked. Click to lock. Published. Click to unpublish Video: useEffect with Data Fetching. 
+
+Data Fetching in React
+
+
+Assignment
+React Simple Data Fetching Lab
+
+
+
+Assignment
+React Fetch CRUD Codealong
+
+
+Assignment
+Putting it All Together: React Fetch CRUD Lab
+
+
+
+Quiz
+Side Effects and Data Fetching Quiz
+
+
+
+[Optional] React Under the Hood
+ [Optional] React Under the Hood
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish [Optional] React Under the Hood.
+Add Content to [Optional] React Under the Hood
+
+Create React App
+
+
+
+Babel and React
+
+
+
+webpack and React
+
+
+
+Reconciliation in React
+
+
+Applying Your Learning
+ Applying Your Learning
+Published. Click to unpublish Applying Your Learning.
+Add Content to Applying Your Learning
+Assignment
+React Mock Code Challenge: gregslist
+
+
+Assignment
+React Mock Code Challenge: Plantsy
+
+
+Assignment
+Practice Challenge: Sushi Saga
+
+
+Assignment
+Practice Challenge: Toy Tales
+
+
+Assignment
+Practice Challenge: Pokemon Searcher
+
+
+Assignment
+Practice Challenge: Flatiron Stock Exchange
+
+
+External Url
+Scrimba Playlist: Chatterbox Practice Challenge
+ Published. Click to unpublish Scrimba Playlist: Chatterbox Practice Challenge. 
+[Optional] Additional Practice
+ [Optional] Additional Practice
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish [Optional] Additional Practice.
+Add Content to [Optional] Additional Practice
+Assignment
+Practice Challenge: Animal Shelter
+
+
+
+Assignment
+Practice Challenge: Flatiron Pizza
+
+
+
+Assignment
+Practice Challenge: WOOF WOOF
+
+
+
+Assignment
+Practice Challenge: WestWorld Command Center
+
+
+
+Assignment
+Async Giphy Search Lab
+
+
+
+Assignment
+Debugging Practice: Flatipotle
+
+
+
+Assignment
+Debugging Practice: Binge-Finder
+
+
+
+Client-Side Routing
+ Client-Side Routing
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish Client-Side Routing.
+Add Content to Client-Side Routing
+External Url
+Scrimba Playlist: React Router
+
+ Published. Click to unpublish Scrimba Playlist: React Router. 
+
+Video: React Router Intro
+Unlocked. Click to lock. Published. Click to unpublish Video: React Router Intro. 
+
+Introduction to Client-Side Routing
+
+
+
+Video: React Router Components - Switch and Route
+Unlocked. Click to lock. Published. Click to unpublish Video: React Router Components - Switch and Route. 
+
+Video: React Router Components - Link and Navlink
+Unlocked. Click to lock. Published. Click to unpublish Video: React Router Components - Link and Navlink. 
+Assignment
+React Router Code-Along
+
+
+
+Assignment
+Basic Routes Lab
+
+
+
+
+Video: React Router - URL Parameters
+Unlocked. Click to lock. Published. Click to unpublish Video: React Router - URL Parameters. 
+Assignment
+Nested Routes
+
+
+
+
+Video: React Router - Programmatic Navigation
+Unlocked. Click to lock. Published. Click to unpublish Video: React Router - Programmatic Navigation. 
+Assignment
+Programmatic Navigation
+
+
+
+Quiz
+Client-Side Routing Quiz
+
+
+
+[Optional] Advanced Hooks
+ [Optional] Advanced Hooks
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish [Optional] Advanced Hooks.
+Add Content to [Optional] Advanced Hooks
+External Url
+Scrimba Playlist: Advanced Hooks
+
+ Published. Click to unpublish Scrimba Playlist: Advanced Hooks. 
+Assignment
+The useRef Hook
+
+
+
+Assignment
+Custom Hooks
+
+
+
+Assignment
+Custom Hooks Workshop
+
+
+
+[Optional] Class Components
+ [Optional] Class Components
+Prerequisites: [Flex/Online Only] Prerequisite
+Complete All Items
+Published. Click to unpublish [Optional] Class Components.
+Add Content to [Optional] Class Components
+
+Class Components Intro
+
+
+Assignment
+Class Syntax Lab
+
+
+
+
+Class Methods and Event Handling
+
+
+
+Using State in Class Components
+
+
+Assignment
+Class Component State and Events Lab
+
+
+
+
+React Component Lifecycle
+
+
+Assignment
+Component Mounting and Unmounting Lab
+
+
+
+Code Challenges
+ Code Challenges
+Prerequisites: [Flex/Online Only] Prerequisite
+Published. Click to unpublish Code Challenges.
+Add Content to Code Challenges
+Assignment
+Phase 2 Code Challenge Rubric
+
+
+
+Phase 2 Code Challenge Instructions
+
+Assignment
+Phase 2 Code Challenge: Bank of Flatiron
+
+
+Assignment
+Phase 2 Code Challenge: Bot Battlr
+
+
+Assignment
+Phase 2 Code Challenge: Planeteers
+
+
+Assignment
+Phase 2 Code Challenge: Poesy
+
+
+Phase 2 Project
+ Phase 2 Project
+Prerequisites: [Flex/Online Only] Prerequisite
+Published. Click to unpublish Phase 2 Project.
+Add Content to Phase 2 Project
+
+Phase 2 Project Guidelines
+
+
+Phase 2 Guided Project Guidelines
+
+Assignment
+[Live] Submit Your Phase 2 Project
+
+Unlocked. Click to lock. Unpublished. Click to publish [Live] Submit Your Phase 2 Project. 
+
+[Flex] Phase 2 Project Review Guidelines
+Unlocked. Click to lock. Unpublished. Click to publish [Flex] Phase 2 Project Review Guidelines. 
+Assignment
+[Flex] GitHub Link: Phase 2 Project
+
+Unlocked. Click to lock. Unpublished. Click to publish [Flex] GitHub Link: Phase 2 Project. 
+Assignment
+[Flex] Video Link: Phase 2 Project
+
+Unlocked. Click to lock. Unpublished. Click to publish [Flex] Video Link: Phase 2 Project. 
+Assignment
+[Flex] Blog Link: Phase 2 Project
+
+Unlocked. Click to lock. Unpublished. Click to publish [Flex] Blog Link: Phase 2 Project. 
+Assignment
+[Flex] Instructor Review: Phase 2 Project
+
+Unlocked. Click to lock. Unpublished. Click to publish [Flex] Instructor Review: Phase 2 Project. 
+Assignment
+[Flex - Internal] Instructor Notes: Phase 2 Project
+
+Unlocked. Click to lock. Unpublished. Click to publish [Flex - Internal] Instructor Notes: Phase 2 Project. 
+Blog Links
+ Blog Links
+Prerequisites: [Flex/Online Only] Prerequisite
+Published. Click to unpublish Blog Links.
+Add Content to Blog Links
+Assignment
+Phase 2 Blog
+
+
+Congratulations on Completing Phase 2
+ Congratulations on Completing Phase 2
+Prerequisites: [Flex/Online Only] Prerequisite
+Unpublished. Click to publish Congratulations on Completing Phase 2.
+Add Content to Congratulations on Completing Phase 2
+
+Congratulations on Completing Phase 2!
+
+Have specific feedback?
+Tell us here!
+To Do
+1717 submissions need grading
+Grade A React App Example
+1 point • No Due Date
